@@ -1,0 +1,113 @@
+<mockup version="1.0" skin="sketch" measuredW="1010" measuredH="610" mockupW="1000" mockupH="600">
+  <controls>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1000" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.solar.hawaii.edu/</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="151" y="95" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22151%2C95%2C197%2C117%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2257_0%22/%3E%0A</map>
+        <text>Home%2C%20Log</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Link" x="920" y="96" w="-1" h="-1" measuredW="49" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Login%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22920%2C96%2C969%2C118%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%2258%22/%3E</map>
+        <size>14</size>
+        <text>Sign%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="863" y="96" w="57" h="20" measuredW="54" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>14</size>
+        <text>Guest%20%20%7C</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::TitleWindow" x="559" y="160" w="425" h="400" measuredW="450" measuredH="400" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <maximizeRestore>false</maximizeRestore>
+        <text>Historical%20Usage</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::TitleWindow" x="115" y="160" w="425" h="400" measuredW="450" measuredH="400" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <maximizeRestore>false</maximizeRestore>
+        <text>Systems%20Log%20and%20User%20messages</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::ButtonBar" x="612" y="186" w="-1" h="-1" measuredW="318" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Energy%2C%20Water%2C%20Security%2C%20Aquaponics</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::DataGrid" x="120" y="229" w="398" h="302" measuredW="356" measuredH="85" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>date%20%26%20time%2C%20From%2C%20Message%0A20101110@1155%2C%20System%2C%20Unplanned%20system%20shutdown%0A20101105@1412%2C%20User%2C%20Don%27t%20forget%20to%20water%20the%20lawn%0A%7B50L%2C%200C%2C%2035L%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::ButtonBar" x="162" y="186" w="-1" h="-1" measuredW="315" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>View%20log%20%26%20messages%2C%20Leave%20a%20message</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::FieldSet" x="597" y="229" w="364" h="90" measuredW="200" measuredH="170" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Input%20a%20period</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Button" x="905" y="258" w="-1" h="-1" measuredW="43" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Go</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::TextInput" x="612" y="273" w="-1" h="-1" measuredW="121" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>mm/dd/yyyy-hhmm</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="612" y="251" w="-1" h="-1" measuredW="96" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Start%20day%20%26%20time</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="752" y="253" w="-1" h="-1" measuredW="52" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Duration</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::HSlider" x="754" y="278" w="94" h="-1" measuredW="33" measuredH="11" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="752" y="289" w="-1" h="-1" measuredW="35" measuredH="22" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5%20min</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="819" y="289" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>60%20min</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Webcam" x="636" y="326" w="283" h="144" measuredW="177" measuredH="145" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::MediaControls" x="724" y="479" w="-1" h="-1" measuredW="110" measuredH="36" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="10" y="70" w="120" h="503" measuredW="200" measuredH="336" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <hrefs>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml%2CEnergy%26bm%3BEnergy.bmml%26bm%3BEnergy.bmml%26bm%3BEnergy.bmml%2CWater%26bm%3BWater.bmml%26bm%3BWater.bmml%26bm%3BWater.bmml%2CSecurity%26bm%3BSecurity.bmml%26bm%3BSecurity.bmml%26bm%3BSecurity.bmml%2Caquaponics%26bm%3Baquaponics.bmml%26bm%3Baquaponics.bmml%26bm%3Baquaponics.bmml%2CLighting%26bm%3BLighting.bmml%26bm%3BLighting.bmml%26bm%3BLighting.bmml%2CAC%26bm%3BAC.bmml%26bm%3BAC.bmml%26bm%3BAC.bmml%2CEntertainment-music%26bm%3BEntertainment-music.bmml%26bm%3BEntertainment-music.bmml%26bm%3BEntertainment-music.bmml%2Csettings%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml%2Clog%26bm%3Blog.bmml%26bm%3Blog.bmml%26bm%3Blog.bmml%2Chelp%26bm%3Bhelp.bmml%26bm%3Bhelp.bmml%26bm%3Bhelp.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C90%2C99%2C120%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2295_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C120%2C99%2C150%22%20href%3D%22Energy.bmml%22%20alt%3D%22Energy%22%20id%3D%2295_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C150%2C99%2C180%22%20href%3D%22Water.bmml%22%20alt%3D%22Water%22%20id%3D%2295_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C180%2C99%2C210%22%20href%3D%22Security.bmml%22%20alt%3D%22Security%22%20id%3D%2295_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C210%2C99%2C240%22%20href%3D%22aquaponics.bmml%22%20alt%3D%22aquaponics%22%20id%3D%2295_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C240%2C99%2C270%22%20href%3D%22Lighting.bmml%22%20alt%3D%22Lighting%22%20id%3D%2295_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C270%2C99%2C300%22%20href%3D%22AC.bmml%22%20alt%3D%22AC%22%20id%3D%2295_6%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C300%2C99%2C330%22%20href%3D%22Entertainment-music.bmml%22%20alt%3D%22Entertainment-music%22%20id%3D%2295_7%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C330%2C99%2C360%22%20href%3D%22settings.bmml%22%20alt%3D%22settings%22%20id%3D%2295_8%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C360%2C99%2C390%22%20href%3D%22log.bmml%22%20alt%3D%22log%22%20id%3D%2295_9%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C390%2C99%2C420%22%20href%3D%22help.bmml%22%20alt%3D%22help%22%20id%3D%2295_10%22/%3E%0A</map>
+        <position>left</position>
+        <selectedIndex>9</selectedIndex>
+        <text>Home%0AEnergy%0AWater%0ASecurity%0AAquaponics%0ALighting%0AAC%0AEntertainment%0ASettings%0ALog%0AHelp</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

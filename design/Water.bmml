@@ -1,0 +1,161 @@
+<mockup version="1.0" skin="sketch" measuredW="1184" measuredH="610" mockupW="1174" mockupH="600">
+  <controls>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::DataGrid" x="602" y="310" w="367" h="239" measuredW="347" measuredH="241" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hasHeader>true</hasHeader>
+        <hLines>false</hLines>
+        <rowHeight>27</rowHeight>
+        <selectedIndex>0</selectedIndex>
+        <text>Date%2C%20Billed%2C%20Thous.%20Gal%2C%20Day%2C%20Gal/Day%0Ato%20date%2C%20est.%20%2496.65%2C%208%2C%2032%2C%20250%0A11/05/2010%2C%20%24193.09%2C%2016%2C%2061%2C%20262%0A09/08/2010%2C%20%24201.03%2C%2018%2C%2063%2C%20286%0A07/07/2010%2C%20%24206.26%2C%2019%2C%2058%2C%20328%0A05/07/2010%2C%20%24216.72%2C%2021%2C%2062%2C%20339%0A03/06/2010%2C%20%24199.48%2C%2022%2C%2062%2C%20355%0A01/07/2010%2C%20%24189.26%2C%2021%2C%2062%2C%20339%0A11/02/2009%2C%20%24175.24%2C%2018%2C%2059%2C%20305%0A%7B4C%2C%204C%2C%205C%2C%202C%2C%203C%7D</text>
+        <vLines>true</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Image" x="118" y="289" w="-1" h="-1" measuredW="460" measuredH="260" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/chart.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::HSlider" x="277" y="245" w="147" h="-1" measuredW="33" measuredH="11" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>50</value>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="171" y="208" w="-1" h="-1" measuredW="99" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sprinkler%20System</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Switch" x="277" y="205" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="236" y="239" w="-1" h="-1" measuredW="34" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Timer</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Canvas" x="162" y="198" w="270" h="80" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="277" y="256" w="-1" h="-1" measuredW="35" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5%20min</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="383" y="256" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>60%20min</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Canvas" x="447" y="198" w="270" h="80" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="517" y="208" w="-1" h="-1" measuredW="131" measuredH="22" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>House%20water%20pressure</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::HSlider" x="509" y="244" w="147" h="-1" measuredW="33" measuredH="11" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>44</value>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Tooltip" x="985" y="121" w="189" h="227" measuredW="528" measuredH="227" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>If%20usage%20above%20average%2C%20suggest%20lowering%20water%20pressure%20or%20lower%20timer%20on%20sprinkler%0A%20%0AIf%20usage%20below%20average%2C%20suggest%20increase%20in%20water%20pressur%20or%20increase%20time%20on%20sprinkler</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="494" y="256" w="-1" h="-1" measuredW="25" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>low</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="637" y="256" w="-1" h="-1" measuredW="28" measuredH="22" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>high</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="692" y="91" w="94" h="30" measuredW="83" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>13369344</color>
+        <size>18</size>
+        <text>11%3A30%20am</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Tooltip" x="103" y="156" w="214" h="53" measuredW="198" measuredH="53" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>It%20is%20mid%20day%2C%20not%20a%20good%20time%0A%20to%20run%20the%20sprinkler</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1000" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.solar.hawaii.edu/Water</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="151" y="95" w="-1" h="-1" measuredW="100" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22151%2C95%2C197%2C117%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2257_0%22/%3E%0A</map>
+        <text>Home%2C%20Water</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Link" x="920" y="96" w="-1" h="-1" measuredW="49" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Login%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22920%2C96%2C969%2C118%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%2258%22/%3E</map>
+        <size>14</size>
+        <text>Sign%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="863" y="96" w="57" h="20" measuredW="54" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>14</size>
+        <text>Guest%20%20%7C</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Canvas" x="525" y="310" w="62" h="250" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Canvas" x="730" y="198" w="255" h="80" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::List" x="758" y="209" w="198" h="58" measuredW="100" measuredH="126" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>hot%20water%20temperature%3A%20110%20%B0F%0Aavailable%20gallons%3A%20%20%20%20%20%20%20%2030</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Tooltip" x="665" y="250" w="-1" h="-1" measuredW="251" measuredH="33.9" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>plan%20your%20hot%20water%20usage%20accordingly</text>
+        <tooltipDirection>NE</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="6" y="68" w="120" h="503" measuredW="200" measuredH="336" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <hrefs>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml%2CEnergy%26bm%3BEnergy.bmml%26bm%3BEnergy.bmml%26bm%3BEnergy.bmml%2CWater%26bm%3BWater.bmml%26bm%3BWater.bmml%26bm%3BWater.bmml%2CSecurity%26bm%3BSecurity.bmml%26bm%3BSecurity.bmml%26bm%3BSecurity.bmml%2Caquaponics%26bm%3Baquaponics.bmml%26bm%3Baquaponics.bmml%26bm%3Baquaponics.bmml%2CLighting%26bm%3BLighting.bmml%26bm%3BLighting.bmml%26bm%3BLighting.bmml%2CAC%26bm%3BAC.bmml%26bm%3BAC.bmml%26bm%3BAC.bmml%2CEntertainment-music%26bm%3BEntertainment-music.bmml%26bm%3BEntertainment-music.bmml%26bm%3BEntertainment-music.bmml%2Csettings%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml%2Clog%26bm%3Blog.bmml%26bm%3Blog.bmml%26bm%3Blog.bmml%2Chelp%26bm%3Bhelp.bmml%26bm%3Bhelp.bmml%26bm%3Bhelp.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C88%2C95%2C118%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2269_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C118%2C95%2C148%22%20href%3D%22Energy.bmml%22%20alt%3D%22Energy%22%20id%3D%2269_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C148%2C95%2C178%22%20href%3D%22Water.bmml%22%20alt%3D%22Water%22%20id%3D%2269_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C178%2C95%2C208%22%20href%3D%22Security.bmml%22%20alt%3D%22Security%22%20id%3D%2269_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C208%2C95%2C238%22%20href%3D%22aquaponics.bmml%22%20alt%3D%22aquaponics%22%20id%3D%2269_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C238%2C95%2C268%22%20href%3D%22Lighting.bmml%22%20alt%3D%22Lighting%22%20id%3D%2269_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C268%2C95%2C298%22%20href%3D%22AC.bmml%22%20alt%3D%22AC%22%20id%3D%2269_6%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C298%2C95%2C328%22%20href%3D%22Entertainment-music.bmml%22%20alt%3D%22Entertainment-music%22%20id%3D%2269_7%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C328%2C95%2C358%22%20href%3D%22settings.bmml%22%20alt%3D%22settings%22%20id%3D%2269_8%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C358%2C95%2C388%22%20href%3D%22log.bmml%22%20alt%3D%22log%22%20id%3D%2269_9%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C388%2C95%2C418%22%20href%3D%22help.bmml%22%20alt%3D%22help%22%20id%3D%2269_10%22/%3E%0A</map>
+        <position>left</position>
+        <selectedIndex>2</selectedIndex>
+        <text>Home%0AEnergy%0AWater%0ASecurity%0AAquaponics%0ALighting%0AAC%0AEntertainment%0ASettings%0ALog%0AHelp</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

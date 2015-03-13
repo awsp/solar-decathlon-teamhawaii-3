@@ -1,0 +1,115 @@
+<wicket:extend>
+
+<script type="text/javascript">
+var currentDate = "";
+var fpLocation = new Array();
+fpLocation[0] = "30";
+fpLocation[1] = "150";
+fpLocation[2] = "300";
+fpLocation[3] = "210";
+fpLocation[4] = "10";
+fpLocation[5] = "280";
+fpLocation[6] = "40";
+fpLocation[7] = "50";
+
+
+$(document).ready(function() {
+
+	$("#fdate").text($(".calendar").val());
+	energyCallBk();
+	currentDate = $(".calendar").val();
+	$("input#show_plan").click(function() {
+		
+		if($(".calendar").val() != currentDate) {
+			if($(".calendar").val() != "") {
+				$("#fdate").text($(".calendar").val());
+				$(".zone1, .zone2, .zone3").remove();
+				$("input.energychkbox").attr("checked", false);
+				for(var i = 0; i < fpLocation.length; i++) {
+					fpLocation[i] = Math.random() * 300 + 1;
+				}
+				energyCallBk();
+			}
+			else {
+				alert("Date is empty, please click on the input box and choose from the calendar.");	
+			}
+		}
+		else {
+			alert("Same date selected, no action taken.");
+			
+		}
+	
+	});
+});
+
+function energyCallBk() {
+	$("input.energychkbox").click(function() {
+
+		if($(this).is(":checked")) {
+			
+			if($(this).hasClass("mec")) {
+				$("div#floorplan").append('<div class="zone1" style="position: absolute; top: ' + fpLocation[0] +'px; left: ' + fpLocation[7] +'px;"></div><div class="zone1" style="position: relative; top: ' + fpLocation[3] + 'px; left: ' + fpLocation[2] + 'px;"></div>');
+			}
+			else if($(this).hasClass("lec")) {
+				$("div#floorplan").append('<div class="zone2" style="position: absolute; top: ' + fpLocation[6] + 'px; left: ' + fpLocation[2] + 'px;"></div>');
+			}
+			else if($(this).hasClass("gec")) {
+				$("div#floorplan").append('<div class="zone3" style="position: absolute; top: ' + fpLocation[1] + 'px; left: ' + fpLocation[2] + 'px;"></div><div class="zone3" style="position: absolute; top: ' + fpLocation[5] + 'px; left: ' + fpLocation[4] + 'px;"></div>');
+			}
+			
+		}
+		else {
+			if($(this).hasClass("mec")) {
+				$(".zone1").remove();
+			}
+			else if($(this).hasClass("lec")) {
+				$(".zone2").remove();
+			}
+			else if($(this).hasClass("gec")) {
+				$(".zone3").remove();
+			}
+		}
+	});
+}
+
+</script>
+
+<div>
+
+<div class="left_panel fl  ui-corner-all" style="width: 55% !important; height: 600px !important; text-align: center;">
+	<h5>Showing Floorplan on <span id="fdate"></span></h5>
+	<div id="floorplan" style="position: relative;">
+		
+	</div>
+	<div style="text-align: left;">
+	<h5>*The floorplan used here is for demo purpose only. Solar Team 3 does not own this floor plan.</h5>
+	<h5>*Drag the pink arrow to change the strength of the light. (The longer the arrow, the brighter.)</h5>
+	</div>
+</div>
+
+<div id="energy-cp" class="fl right_panel ui-corner-all" style="width: 35% !important; height: 600px !important;">
+<h5 style="text-align: center;">Energy Distribution</h5>
+	<select>
+		<option>Views - Floorplan</option>
+		<option>Views - 3D mode</option>
+	</select>
+	<p>
+		<input type="text" class="calendar" size="20" value="12/17/2010" />&nbsp;&nbsp;
+		<input type="button" id="show_plan" value="Show" />
+	</p>
+	<p>
+		<input type="checkbox" class="energychkbox mec" />&nbsp;Mark most energy consumed area <span class="tipbox" style="background-color: red;"></span>
+	</p>
+	<p>
+		<input type="checkbox" class="energychkbox lec" />&nbsp;Mark less energy consumed area <span class="tipbox" style="background-color: orange;"></span>
+	</p>
+	<p>
+		<input type="checkbox" class="energychkbox gec" />&nbsp;Mark energy safe area <span class="tipbox" style="background-color: green;"></span>
+	</p>
+	<p><input type="button" value=" Custom my option " /></p>		
+</div>
+
+</div>
+<div class="clear"></div>
+</wicket:extend>
+

@@ -1,0 +1,31 @@
+Hard requirements
+
+1.  Screen has a fixed width of 1000 pixels.
+
+2.  Default font is Arial and size is 12pt.
+
+3.  Functionality is not replicated.
+
+4.  Square corners are avoided when possible.  Use rounded corners instead.
+      http://uh-dorm-energy-competition.googlecode.com/svn/mockups/makahiki2/widget-template.png
+      
+5.  Most important material is in top 700 pixels.
+
+6.  Work area is anchored to the left-top of page.
+
+7.  Each page offers an interpretation of data and user action.
+
+
+General
+
+8.  User can understand layout of page in 1 second.  First impression
+      is "OK, I understand" instead of "WTF is all this?".  In other words,
+      the page is simple, organized, and does not overwhelm user.
+      
+9.  Information is organized into different sections.
+      
+10.  Only useful high quality content is displayed.  There is no "filler content" to
+     simply fill up the work area.
+     
+11.  It takes a maximum of 2 clicks to view any page.  One click in the navigation bar,
+     and another within the page.

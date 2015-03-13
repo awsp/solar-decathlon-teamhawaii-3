@@ -1,0 +1,207 @@
+<mockup version="1.0" skin="sketch" measuredW="1010" measuredH="687" mockupW="1000" mockupH="677">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1000" h="677" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.solar.hawaii.edu/Aquaponics</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="10" y="70" w="120" h="582" measuredW="200" measuredH="336" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <hrefs>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml%2CEnergy%26bm%3BEnergy.bmml%26bm%3BEnergy.bmml%26bm%3BEnergy.bmml%2CWater%26bm%3BWater.bmml%26bm%3BWater.bmml%26bm%3BWater.bmml%2CSecurity%26bm%3BSecurity.bmml%26bm%3BSecurity.bmml%26bm%3BSecurity.bmml%2Caquaponics%26bm%3Baquaponics.bmml%26bm%3Baquaponics.bmml%26bm%3Baquaponics.bmml%2CLighting%26bm%3BLighting.bmml%26bm%3BLighting.bmml%26bm%3BLighting.bmml%2CAC%26bm%3BAC.bmml%26bm%3BAC.bmml%26bm%3BAC.bmml%2CEntertainment-music%26bm%3BEntertainment-music.bmml%26bm%3BEntertainment-music.bmml%26bm%3BEntertainment-music.bmml%2Csettings%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml%2Clog%26bm%3Blog.bmml%26bm%3Blog.bmml%26bm%3Blog.bmml%2Chelp%26bm%3Bhelp.bmml%26bm%3Bhelp.bmml%26bm%3Bhelp.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C90%2C99%2C120%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%221_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C120%2C99%2C150%22%20href%3D%22Energy.bmml%22%20alt%3D%22Energy%22%20id%3D%221_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C150%2C99%2C180%22%20href%3D%22Water.bmml%22%20alt%3D%22Water%22%20id%3D%221_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C180%2C99%2C210%22%20href%3D%22Security.bmml%22%20alt%3D%22Security%22%20id%3D%221_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C210%2C99%2C240%22%20href%3D%22aquaponics.bmml%22%20alt%3D%22aquaponics%22%20id%3D%221_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C240%2C99%2C270%22%20href%3D%22Lighting.bmml%22%20alt%3D%22Lighting%22%20id%3D%221_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C270%2C99%2C300%22%20href%3D%22AC.bmml%22%20alt%3D%22AC%22%20id%3D%221_6%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C300%2C99%2C330%22%20href%3D%22Entertainment-music.bmml%22%20alt%3D%22Entertainment-music%22%20id%3D%221_7%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C330%2C99%2C360%22%20href%3D%22settings.bmml%22%20alt%3D%22settings%22%20id%3D%221_8%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C360%2C99%2C390%22%20href%3D%22log.bmml%22%20alt%3D%22log%22%20id%3D%221_9%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2210%2C390%2C99%2C420%22%20href%3D%22help.bmml%22%20alt%3D%22help%22%20id%3D%221_10%22/%3E%0A</map>
+        <position>left</position>
+        <selectedIndex>4</selectedIndex>
+        <text>Home%0AEnergy%0AWater%0ASecurity%0AAquaponics%0ALighting%0AAC%0AEntertainment%0ASettings%0ALog%0AHelp</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="151" y="95" w="-1" h="-1" measuredW="134" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22151%2C95%2C197%2C117%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2229_0%22/%3E%0A</map>
+        <text>Home%2C%20Aquaponics</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Link" x="920" y="96" w="-1" h="-1" measuredW="49" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Login%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22920%2C96%2C969%2C118%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%2230%22/%3E</map>
+        <size>14</size>
+        <text>Sign%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="863" y="96" w="57" h="20" measuredW="54" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>14</size>
+        <text>Guest%20%20%7C</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="__group__" x="144" y="142" w="-1" h="-1" measuredW="390" measuredH="484" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="390" h="484" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="34">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="15" y="21" w="360" h="265" measuredW="350" measuredH="265" zOrder="1" locked="false" isInGroup="34">
+          <controlProperties>
+            <src>./assets/gasDistribution.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="26" y="303" w="335" h="153" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="34">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="108" y="314" w="173" h="37" measuredW="173" measuredH="37" zOrder="3" locked="false" isInGroup="34">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="173" h="37" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <borderStyle>roundedSolid</borderStyle>
+                <color>40463</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="10" y="3" w="156" h="21" measuredW="157" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <bold>true</bold>
+                <size>12</size>
+                <text>Gas%20distribution%20balanced.</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="30" y="16" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="2" locked="false" isInGroup="3">
+              <controlProperties>
+                <bold>true</bold>
+                <size>12</size>
+                <text>No%20action%20required.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::HSlider" x="262" y="378" w="84" h="-1" measuredW="33" measuredH="11" zOrder="4" locked="false" isInGroup="34">
+          <controlProperties>
+            <value>67</value>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="37" y="373" w="-1" h="-1" measuredW="178" measuredH="22" zOrder="5" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>Amount%20of%20oxygen%20to%20produce%3A%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="37" y="395" w="-1" h="-1" measuredW="218" measuredH="22" zOrder="6" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>Amount%20of%20carbon%20dioxide%20to%20produce%3A%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::HSlider" x="262" y="400" w="84" h="-1" measuredW="33" measuredH="11" zOrder="7" locked="false" isInGroup="34"/>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="37" y="419" w="-1" h="-1" measuredW="179" measuredH="22" zOrder="8" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>Amount%20of%20nitrogen%20to%20produce%3A%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::HSlider" x="262" y="424" w="84" h="-1" measuredW="33" measuredH="11" zOrder="9" locked="false" isInGroup="34"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="35" controlTypeID="__group__" x="566" y="142" w="-1" h="-1" measuredW="390" measuredH="484" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="390" h="484" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="35">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>13421772</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="26" y="303" w="335" h="153" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="35">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="108" y="314" w="173" h="37" measuredW="173" measuredH="37" zOrder="2" locked="false" isInGroup="35">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="173" h="37" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>roundedSolid</borderStyle>
+                <color>13576743</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="30" y="3" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <bold>true</bold>
+                <size>12</size>
+                <text>Water%20is%20too%20acidic.</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="26" y="16" w="-1" h="-1" measuredW="124" measuredH="21" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <bold>true</bold>
+                <size>12</size>
+                <text>Increase%20water%20level.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::HSlider" x="224" y="376" w="84" h="-1" measuredW="33" measuredH="11" zOrder="3" locked="false" isInGroup="35">
+          <controlProperties>
+            <value>67</value>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="83" y="373" w="77" h="22" measuredW="71" measuredH="22" zOrder="4" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Water%20level%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="83" y="395" w="-1" h="-1" measuredW="64" measuredH="22" zOrder="5" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Target%20pH%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="83" y="419" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="6" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Target%20temperature%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::NumericStepper" x="243" y="392" w="-1" h="-1" measuredW="50" measuredH="23" zOrder="7" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>7.2</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::NumericStepper" x="231" y="418" w="-1" h="-1" measuredW="68" measuredH="23" zOrder="8" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>68.5%20F</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="15" y="77" w="-1" h="-1" measuredW="360" measuredH="200" zOrder="9" locked="false" isInGroup="35">
+          <controlProperties>
+            <src>./assets/aquaPH.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="__group__" x="123" y="26" w="144" h="22" measuredW="145" measuredH="22" zOrder="10" locked="false" isInGroup="35">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="95" y="0" w="-1" h="-1" measuredW="50" measuredH="22" zOrder="0" locked="false" isInGroup="10">
+              <controlProperties>
+                <text>pH</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="88" h="22" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="10">
+              <controlProperties>
+                <borderColor>16777215</borderColor>
+                <borderStyle>none</borderStyle>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="5" y="0" w="90" h="22" measuredW="82" measuredH="22" zOrder="2" locked="false" isInGroup="10">
+              <controlProperties>
+                <bold>true</bold>
+                <text>Select%20view%3A</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

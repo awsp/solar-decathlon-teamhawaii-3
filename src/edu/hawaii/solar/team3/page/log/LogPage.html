@@ -1,0 +1,49 @@
+
+<wicket:extend>
+
+
+	<div class="page_content">
+	<div class="fl left_panel ui-corner-all">
+
+	<h3>System Log and User Messages</h3>
+	<form wicket:id="form2">
+	<p><input wicket:id="Submit2" type="submit"
+		value="View Log & Messages" /> <input wicket:id="Cancel2"
+		type="submit" value="Leave a Message" /></p>
+	<table>
+		<tr>
+			<th>Time</th>
+			<th>User</th>
+			<th>Message</th>
+		</tr>
+		<div wicket:id="EventList">
+		<tr>
+			<td wicket:id="time">[time]</td>
+			<td wicket:id="user">[user]</td>
+			<td wicket:id="message">[message]</td>
+		</tr>
+		</div>
+	</table>
+
+	</form>
+	</div>
+
+	<div class="fl right_panel ui-corner-all">
+	<h3>Historic Usage</h3>
+	<form wicket:id="form3">
+	<p><input type="submit" value="Energy" /> <input type="submit"
+		value="Water" /> <input type="submit" value="Security" /> <input
+		type="submit" value="Aquaponics" /></p>
+
+	<form wicket:id="form4"><input type="text" wicket:id="msg"
+		value="" size="30" /> <input type="text" value="[duration]" size="30" />
+	<input type="submit" value="Go" /></form>
+
+
+	</form>
+	</div>
+	</div>
+	<div class="clear"></div>
+</wicket:extend>
+
+

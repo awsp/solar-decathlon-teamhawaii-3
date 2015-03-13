@@ -1,0 +1,87 @@
+<wicket:extend>
+<div class="clear"></div>
+<div class="fl left_panel ui-corner-all">
+<div class="ui-corner-all" style="width: 80%; border: 1px solid #ccc; text-align: center; margin-left: auto; margin-right: auto;">
+	<form wicket:id="form1">
+	<p></p>
+	<center><font size="3"><b>User Information</b></font></center>
+	<p></p>
+		<center><table>
+			<tr>
+				<th><font size="2">First name</font></th>
+				<td><input wicket:id="firstname" type="text" size="30" value="owner"/></td>
+			</tr>
+			<tr>
+				<th><font size="2">Last name</font></th>
+				<td><input wicket:id="lastname" type="text" size="30"/></td>
+			</tr>
+			<tr>
+				<th><font size="2">Home phone</font></th>
+				<td><input wicket:id="homephone" type="text" size="30"/></td>
+			</tr>
+			<tr>
+				<th><font size="2">Cell phone</font></th>
+				<td><input wicket:id="cellphone" type="text" size="30"/></td>
+			</tr>
+			<tr>
+				<th><font size="2">Address</font></th>
+				<td><input wicket:id="address" type="text" size="30"/></td>
+			</tr>
+		</table></center>
+		<p><center><input wicket:id="Submit" type="submit" value="Save" /> &nbsp;&nbsp;&nbsp;&nbsp;
+		   <input wicket:id="Cancel" type="submit" value="Clear" /></center></p>
+	</form>
+</div>
+
+<p></p>
+
+ <div class="ui-corner-all" style="width: 80%; border: 1px solid #ccc; text-align: center; margin-left: auto; margin-right: auto;">
+	<form wicket:id="form3">
+	<p></p>
+	<center><font size="3"><b>Send alerts to</b></font></center>
+	<p></p>
+		<center><table>
+			<tr>
+				<th><font size="2">Cell phone</font></th>
+				<td><input wicket:id="cellphone2" type="text" size="30"/></td>
+			</tr>
+			<tr>
+				<th><font size="2">Email</font></th>
+				<td><input wicket:id="email" type="text" size="30"/></td>
+			</tr>
+		</table></center>
+		<p><center><input wicket:id="Submit3" type="submit" value="Save" /> &nbsp;&nbsp;&nbsp;&nbsp;
+		   <input wicket:id="Cancel3" type="submit" value="Clear" /></center></p>
+	</form>
+</div>
+</div>
+
+<div class="fl right_panel ui-corner-all">
+<div class="ui-corner-all" style="width: 80%; border: 1px solid #ccc; text-align: center; margin-left: auto; margin-right: auto;">
+	<form wicket:id="form2">
+	<p></p>
+	<center><font size="3"><b>Update Username/Password</b></font></center>
+	<p></p>
+		<center><table>
+			<tr>
+				<th><font size="2">New username</font></th>
+				<td><input wicket:id="newusername" type="text" size="30" value="name"/></td>
+			</tr>
+			<tr>
+				<th><font size="2">Current password</font></th>
+				<td><input wicket:id="currentpw" type="text" size="30"/></td>
+			</tr>
+			<tr>
+				<th><font size="2">New password</font></th>
+				<td><input wicket:id="newpw" type="text" size="30"/></td>
+			</tr>
+		</table></center>
+		<p><center><input wicket:id="Submit2" type="submit" value="Save" /> &nbsp;&nbsp;&nbsp;&nbsp;
+		   <input wicket:id="Cancel2" type="submit" value="Clear" /></center></p>
+	</form>
+</div>
+</div>
+  
+<div class="clear"></div>
+</wicket:extend>
+

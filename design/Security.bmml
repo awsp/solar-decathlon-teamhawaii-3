@@ -1,0 +1,195 @@
+<mockup version="1.0" skin="sketch" measuredW="1010" measuredH="610" mockupW="1000" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1000" h="600" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//www.solar.hawaii.edu/</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="151" y="95" w="-1" h="-1" measuredW="115" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22151%2C95%2C197%2C117%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2229_0%22/%3E%0A</map>
+        <text>Home%2C%20Security</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Link" x="920" y="96" w="-1" h="-1" measuredW="60" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Sign%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="863" y="96" w="57" h="20" measuredW="46" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>14</size>
+        <text>Owner</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::SubTitle" x="147" y="159" w="-1" h="-1" measuredW="102" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Security%20Options</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::CheckBox" x="149" y="201" w="-1" h="-1" measuredW="214" measuredH="22" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Use%20motion%20detection%20flood%20lights</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="130" y="142" w="270" h="393" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Canvas" x="418" y="142" w="270" h="391" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Canvas" x="467" y="145" w="270" h="0" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::CheckBox" x="441" y="186" w="249" h="51" measuredW="396" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Only%20record%20video%20when%20motion%20is%20detected%20%28reduces%20energy%20use%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::CheckBox" x="458" y="309" w="184" h="20" measuredW="151" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Outdoor%201%3A%20Front%20Door</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::CheckBox" x="458" y="335" w="184" h="20" measuredW="151" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Outdoor%202%3A%20Back%20Door</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::CheckBox" x="458" y="361" w="184" h="20" measuredW="149" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Indoor%201%3A%20Living%20Room</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::CheckBox" x="458" y="387" w="184" h="20" measuredW="127" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Indoor%202%20%3A%20Kitchen</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::CheckBox" x="458" y="413" w="184" h="20" measuredW="124" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Indoor%203%3A%20Hallway</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="442" y="245" w="381" h="36" measuredW="246" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Uncheck%20this%20option%20to%20enable%20recording%20at%20all%20hours</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Button" x="458" y="440" w="-1" h="-1" measuredW="142" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Change/Edit%20Zones</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Button" x="448" y="481" w="211" h="33" measuredW="202" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Review%20Surveillance%20Videos</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Image" x="730" y="190" w="224" h="158" measuredW="482" measuredH="329" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/toxmystery_kitchen.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::ComboBox" x="829" y="160" w="80" h="-1" measuredW="80" measuredH="22" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kitchen</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::SubTitle" x="730" y="160" w="96" h="-1" measuredW="96" measuredH="22" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>View%20Live%20Feed%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="441" y="159" w="-1" h="-1" measuredW="74" measuredH="22" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <text>Surveillance</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Canvas" x="706" y="142" w="270" h="391" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::NumericStepper" x="184" y="246" w="-1" h="-1" measuredW="47" measuredH="23" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>30</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="146" y="247" w="228" h="23" measuredW="36" measuredH="22" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Allow</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="232" y="246" w="148" h="75" measuredW="314" measuredH="22" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>seconds%20after%20a%20door%20is%20opened%20before%20sounding%20alarm</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="147" y="309" w="-1" h="-1" measuredW="126" measuredH="22" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Send%20alarm%20alerts%20to%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::CheckBox" x="165" y="334" w="-1" h="-1" measuredW="162" measuredH="22" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Owner%201%20%28mobile%20phone%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::CheckBox" x="165" y="354" w="-1" h="-1" measuredW="162" measuredH="22" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Owner%202%20%28mobile%20phone%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::CheckBox" x="165" y="374" w="-1" h="-1" measuredW="116" measuredH="22" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Owner%202%20%28email%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Button" x="148" y="406" w="-1" h="-1" measuredW="88" measuredH="28" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20Alerts</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="6" y="68" w="120" h="503" measuredW="200" measuredH="336" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <hrefs>home%26bm%3Bhome.bmml%26bm%3Bhome.bmml%26bm%3Bhome.bmml%2CEnergy%26bm%3BEnergy.bmml%26bm%3BEnergy.bmml%26bm%3BEnergy.bmml%2CWater%26bm%3BWater.bmml%26bm%3BWater.bmml%26bm%3BWater.bmml%2CSecurity%26bm%3BSecurity.bmml%26bm%3BSecurity.bmml%26bm%3BSecurity.bmml%2Caquaponics%26bm%3Baquaponics.bmml%26bm%3Baquaponics.bmml%26bm%3Baquaponics.bmml%2CLighting%26bm%3BLighting.bmml%26bm%3BLighting.bmml%26bm%3BLighting.bmml%2CAC%26bm%3BAC.bmml%26bm%3BAC.bmml%26bm%3BAC.bmml%2CEntertainment-music%26bm%3BEntertainment-music.bmml%26bm%3BEntertainment-music.bmml%26bm%3BEntertainment-music.bmml%2Csettings%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml%2Clog%26bm%3Blog.bmml%26bm%3Blog.bmml%26bm%3Blog.bmml%2Chelp%26bm%3Bhelp.bmml%26bm%3Bhelp.bmml%26bm%3Bhelp.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C88%2C100%2C118%22%20href%3D%22home.bmml%22%20alt%3D%22home%22%20id%3D%2278_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C118%2C100%2C148%22%20href%3D%22Energy.bmml%22%20alt%3D%22Energy%22%20id%3D%2278_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C148%2C100%2C178%22%20href%3D%22Water.bmml%22%20alt%3D%22Water%22%20id%3D%2278_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C178%2C100%2C208%22%20href%3D%22Security.bmml%22%20alt%3D%22Security%22%20id%3D%2278_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C208%2C100%2C238%22%20href%3D%22aquaponics.bmml%22%20alt%3D%22aquaponics%22%20id%3D%2278_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C238%2C100%2C268%22%20href%3D%22Lighting.bmml%22%20alt%3D%22Lighting%22%20id%3D%2278_5%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C268%2C100%2C298%22%20href%3D%22AC.bmml%22%20alt%3D%22AC%22%20id%3D%2278_6%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C298%2C100%2C328%22%20href%3D%22Entertainment-music.bmml%22%20alt%3D%22Entertainment-music%22%20id%3D%2278_7%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C328%2C100%2C358%22%20href%3D%22settings.bmml%22%20alt%3D%22settings%22%20id%3D%2278_8%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C358%2C100%2C388%22%20href%3D%22log.bmml%22%20alt%3D%22log%22%20id%3D%2278_9%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C388%2C100%2C418%22%20href%3D%22help.bmml%22%20alt%3D%22help%22%20id%3D%2278_10%22/%3E%0A</map>
+        <position>left</position>
+        <selectedIndex>3</selectedIndex>
+        <text>Home%0AEnergy%0AWater%0ASecurity%0AAquaponics%0ALighting%0AAC%0AEntertainment%0ASettings%0ALog%0AHelp</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Label" x="437" y="283" w="171" h="33" measuredW="133" measuredH="22" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Record%20Video%20in%20Zone%3A</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

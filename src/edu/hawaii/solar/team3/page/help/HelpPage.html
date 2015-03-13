@@ -1,0 +1,84 @@
+
+<wicket:extend>
+
+
+
+ <style>
+    #columns {
+        width: 600px;
+    }
+    #columns .column {
+        position: relative;
+        width: 46%;
+        padding: 1%;
+    }
+    .column > * {
+    	font-size: 16px;
+    }
+    #columns .left {
+        float: left;
+    }
+    #columns .right {
+        float: right;
+    }
+
+    
+</style>
+
+<div class="left_panel ui-corner-all fl">
+    <div class="ui-corner-all" style="width: 80%; margin-left: auto; margin-right: auto; border: 1px solid #ccc;">
+    	<h3>Using this management system</h3>
+        <p wicket:id="usage">[System usage message goes here]</p>
+
+    </div>
+    <div class="clear" style="height: 30px; widtth: 80%;"></div>
+    <div class="ui-corner-all" style="width: 80%; margin-left: auto; margin-right: auto; border: 1px solid #ccc;">
+        <h3>Common issues</h3>
+    
+        <p wicket:id="issues">[Common issues message goes here]</p>
+    </div>
+
+</div>
+
+
+<div class="right_panel ui-corner-all fl">
+    <div class="ui-corner-all" style="width: 80%; margin-left: auto; margin-right: auto; border: 1px solid #ccc;">
+        <h3 wicket:id="other">[Other topics message goes here]</h3>
+    </div>
+	<div class="clear" style="height: 30px; widtth: 80%;"></div>
+    <div class="ui-corner-all" style="width: 80%; margin-left: auto; margin-right: auto; border: 1px solid #ccc;">
+    	<h3>Emergency Contacts</h3>
+     <table>
+    <tr>
+      <th>Name</th>
+      <th>Job</th>
+      <th>Phone</th>
+    </tr>
+   <div wicket:id="ContactList">
+     <tr>
+       <td wicket:id="Name">[Name]</td>
+       <td wicket:id="Job">[Job]</td>
+       <td wicket:id="Phone">[Phone]</td>
+     </tr>
+   </div>
+  </table>
+    </div>
+</div>
+
+
+
+<!--  
+
+        border: solid 1px #000;
+
+<form>
+ <span</span>
+</form>
+<form>
+ <span wicket:id="issues">[Common issues message goes here]</span>
+</form>
+ -->
+<div class="clear"></div>
+</wicket:extend>
+
+

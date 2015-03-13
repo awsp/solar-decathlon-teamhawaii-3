@@ -1,0 +1,63 @@
+<html>
+<head>
+  <title wicket:id="title">[Title]</title>
+</head>
+
+<body>
+
+  <script type="text/javascript">
+
+  	$(function() {
+  	  	//Main Navigation
+		$("ul#nav").buttonset();
+		$("input.calendar").datepicker();
+		$("#widget-cp").sortable();
+		$("#widget-cp").disableSelection();
+	});
+
+	
+  </script>
+  
+  
+  <!--  Main Navigation -->
+  <div id="page">
+    <div id="header" class="">
+      <div style="width: 40%; height: 70px; float: left; text-align: left;"><img src="resources/edu.hawaii.solar.team3.page.BasePage/style/customtheme/images/logo3.png" alt="Logo" /></div>
+      <div style="width: 20%; height: 30px; float: left; text-align: left;"><p></p><img src="resources/edu.hawaii.solar.team3.page.BasePage/style/customtheme/images/logo4.png" alt="Logo" /></div>
+      <div style="width: 40%; float: right; text-align: right; padding-top: 20px">
+      <p></p>
+      <label>Username: &nbsp;</label><input type="text" size="10" value="    admin"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <label>Password: &nbsp;</label><input type="text" size="10" value="  password"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <input type="submit" value=" Log in " />
+      </div>
+      <div class="clear"></div>
+      
+      <ul class="tabs" id="nav">
+        <li><a wicket:id="HomePageLink" href="#" class="ui-corner-top">Home</a></li>
+        <li><a wicket:id="EntertainmentPageLink" href="#">Entertainment</a></li>
+        <li><a wicket:id="AcPageLink" href="#">AC</a></li>
+        <li><a wicket:id="AquaponicsPageLink" href="#">Aquaponics</a></li>
+        <li><a wicket:id="EnergyPageLink" href="#">Energy</a></li>
+        <li><a wicket:id="LightingPageLink" href="#">Lighting</a></li>
+        <li><a wicket:id="WaterPageLink" href="#">Water</a></li>
+        <li><a wicket:id="SecurityPageLink" href="#">Security</a></li>
+        <li><a wicket:id="SettingsPageLink" href="#">Setting</a></li>
+        <li><a wicket:id="LogPageLink" href="#">Log</a></li>
+        <li><a wicket:id="HelpPageLink" href="#" class="ui-corner-bottom">Help</a></li>
+      </ul>
+      
+      <!--  end of nav -->
+      <div class="clear"></div>
+    </div><!--  end of header -->
+
+    <div id="body" class="wrapper ui-corner-all">
+      <wicket:child/>
+    </div>
+    
+	<div class="clear"></div>
+  </div><!--  end of page -->
+  
+</body>
+</html>
